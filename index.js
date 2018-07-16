@@ -7,4 +7,4 @@ function fuzzyMatch(array, string) {
 }
 
 function matchName(array, string) { 
-  return array.filter(name => name.name === )
+  return array.filter(name => name.name === string)
